@@ -1,1 +1,1 @@
-web: gunicorn csgo_connections:app
+web: gunicorn csgo-connections:app

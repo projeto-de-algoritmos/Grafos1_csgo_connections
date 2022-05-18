@@ -34,4 +34,4 @@ if __name__ == "__main__":
         G = Graph()
         G.load()
     #Executa o app.
-    app.run(debug=False)
+    app.run(host='0.0.0.0',debug=False)
