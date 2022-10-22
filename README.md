@@ -32,7 +32,7 @@ Para criar o grafo e suas conexões são levados em conta os seguintes fatores:
  - Instalacao dos pacotes necessarios
 ```
   $ sudo apt install virtualenv
-  $ virtualen env
+  $ virtualenv env
   $ source env/bin/activate
   $ pip3 install -r requirements.txt
 
